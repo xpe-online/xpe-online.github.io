@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 #### 关于我的一些事
 - xpe is sometimes called "Little CnH<sub>2</sub>n Sauce"(Sauce here means "ちゃん" in Japanese, read as "Chan").In Chinese Pinyin, it reads as "Xiǎo Xī Jiàng".
  
-  xpe有时被称为"小烯酱"（这里的酱代指日语中"ちゃん"的意思,详见[百度百科](https://baike.baidu.com/item/%E9%85%B1/18052177)上的介绍（当然意思不大一样））
+  xpe有时被称为"小烯酱"（这里的酱代指日语中"ちゃん"的意思,详见 [百度百科](https://baike.baidu.com/item/%E9%85%B1/18052177)上的介绍 （当然意思不大一样））
