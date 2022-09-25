@@ -35,6 +35,19 @@ Here are some ideas to get you started:
 
 **我是一名来自中国的初中生，我现在在学习 C++ 与 C 语言，有时也会学学 Java. 我学 C++ 是因为偶然间变成了OIer，而且对OI这方面很感兴趣.**
 
+**这个网页就用来发布一些文件/个人博客罢**
+
+----------------------------------------------------
+
+### How to send posts
+#### 如何发帖?
+Yes,you can use the repository of this web as a forum.
+是的,你可以把这个网页所对应的存储库当作论坛来使
+You can use ["Issues"](https://github.com/xpe-online/xpe-online.github.io/issues) to send a post in the [repository of this web](https://github.com/xpe-online/xpe-online.github.io)  
+你可以在这个网页所对应的[存储库](https://github.com/xpe-online/xpe-online.github.io)上使用[Issues](https://github.com/xpe-online/xpe-online.github.io/issues)功能进行发帖
+It's good for using as a forum, isn't it?
+是不是非常地好使:D
+
 ----------------------------------------------------
 
 ### Something About Me
