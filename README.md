@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 ### Top Files
 #### 置顶文件
 
-(一份八年级的数学卷子,自己做的)  
-成果展示一模拟卷原件  
-成果展示一模拟卷答案  
-
 ----------------------------------------------------
 
 ### Self-Introduction
