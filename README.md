@@ -48,7 +48,7 @@ It's good for using as a forum, isn't it?
 
 ### Something About Me
 #### 关于我的一些事
-- xpe is sometimes called "Little CnH<sub>2</sub>n Sauce" (Sauce here means "ちゃん" in Japanese, read as "Chan"). In Chinese Pinyin, it reads as\
+- xpe is sometimes called "Little CnH<sub>2</sub>n Chan" (Sauce here means "ちゃん" in Japanese, read as "Chan"). In Chinese Pinyin, it reads as\
   "Xiǎo Xī Jiàng".
   The name was given by a man named yasdiox, Please help me thank him.
   
