@@ -26,19 +26,16 @@ Here are some ideas to get you started:
 ### Self-Introduction
 #### 自我介绍
 
-**I am a middle school student from China. I am currently learning about C++ and C, sometimes also learn about Java.I am very interested in NOIP.**
-**I like playing Minecraft with my friend and my favorite sport is badminton.**
+**I am a senior high school student from China. I am currently learning about C++, sometimes also learn about Java. One thing that you need to know is I like Chemistry, too.**
 
-**我是一名来自中国的初中生，我现在在学习 C++ 与 C 语言，有时也会学学 Java. 我学 C++ 是因为偶然间变成了OIer，而且对OI这方面很感兴趣.**
+**I like playing Minecraft with my friend and I also play osu!std, TETR.IO, Terraria(and TML), e.t.c.**
 
-**这个网页就用来发布一些文件/个人博客罢**
+**我是一名来自中国的高中生，我现在在学习 C++，有时也会学学 Java。 以及我很喜欢化学**
 
+**Koishi(?)**
 
 ----------------------------------------------------
 
 ### Something About Me
 #### 关于我的一些事
-- xpe is sometimes called "Little CnH<sub>2</sub>n Chan" (Chan here means "ちゃん" in Japanese, read as "Chan"). In Chinese Pinyin, it reads as\
-  "Xiǎo Xī Jiàng".
-  
-  xpe有时被称为"小烯酱"（这里的酱代指日语中"ちゃん"的意思，详见 [百度百科](https://baike.baidu.com/item/%E9%85%B1/18052177)上的介绍 （当然意思不大一样）） \
+- 有待补充
